@@ -20,13 +20,14 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1200px;
+    
     margin: 0 auto;
 }
 
-.logo {
+.nav-content {
     display: flex;
     align-items: start;
+    
 }
 
 .nav-links {
@@ -50,6 +51,8 @@ nav {
 
 .getstarted {
     margin-left: auto;
+    display: flex;
+    margin-bottom: 20px;
 }
 
 .getstarted button {
@@ -67,7 +70,7 @@ nav {
     color: grey;
 }
 #reg{
-   border: 1px solid rgb(86, 7, 233);
+   border: 1px solid black;
 }
 .hero{
     display: flex;
