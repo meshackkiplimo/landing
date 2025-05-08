@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #f0f0f0;
+    background-color:white;
     color: #333;
 }
 
@@ -21,7 +21,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     
-    margin: 0 auto;
+    
 }
 
 .nav-content {
